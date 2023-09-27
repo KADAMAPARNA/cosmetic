@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'storecosmetic'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9BA9B9A937364FA1B0B23E52D4A71EB6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7FC2F085D89943258D2A6150614AF5A5 }}
           package: '*.jar'
